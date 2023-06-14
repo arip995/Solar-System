@@ -1,0 +1,17 @@
+.sun {
+    width: 100px;
+    height: 100px;
+    background-color: #fcd440;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .sun-label {
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  }
+  
